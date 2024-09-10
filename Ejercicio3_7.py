@@ -3,6 +3,8 @@
 # variable operacion el valor solicitado al usuario: 's'-sumar, 'r'-restar (validar),realice 
 # la operación de dichos valores a través de una función. Mostrar el resultado por
 # pantalla.
+#Alumno: Agustin Barrero 
+#Comision 213
 def ingresar_numero(desde, hasta):
     numero_ingresado_uno = int(input(f'Ingrese un número entre {desde} y {hasta}: '))
     numero_ingresado_dos = int(input(f'Ingrese un número entre {desde} y {hasta}: '))
